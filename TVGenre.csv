@@ -1,0 +1,17 @@
+Genre,Number of Movies,Sentiment
+Action & Adventure,1234,0.234
+Animation,54324,-0.2324
+Comedy,2144,0.98
+Crime,2534,0.46
+Documentary,7654,0.54
+Drama,876, 0.23
+Family,234,0.543
+Kids,5313,-0.65
+Mystery,764,-0.45
+News,874,-0.765
+Reality,654,-0.123
+Sci-Fi & Fantasy,347,0.35
+Soap,942,-0.12
+Talk,871,0.34
+War & Politics,435,-0.65
+Western,765,0.234
